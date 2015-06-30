@@ -9,5 +9,5 @@ setup(name = 'PyDatastream',
       author_email = 'vfilimonov@ethz.ch',
       license = 'MIT License',
       packages = ['pydatastream'],
-      install_requires = ['suds', 'pandas']
+      install_requires = ['suds-jurko', 'pandas']
      )
